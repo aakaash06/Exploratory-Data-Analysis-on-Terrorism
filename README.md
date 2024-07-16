@@ -38,8 +38,8 @@ Basic data preprocessing was performed using Power BI, including:
 
 ### Files Included
 
-- `original_data.csv`: The original dataset used for the analysis.
-- `preprocessed_data.xlsx`: The dataset after preprocessing steps were applied.
+-  The original dataset used for the analysis. Access it from this link : https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
+-  The dataset after preprocessing steps were applied. Access it from this link: https://docs.google.com/spreadsheets/d/1mtjzdu0-x6zb716YLHpYFD9-Wuc0BdBu/edit?usp=drive_link&ouid=106365571194972149858&rtpof=true&sd=true
 - 'EDA on terrorism.pbix': The Power BI report of this project
 - 'EDA on terrorism.pdf': The PDF format of the report
 
